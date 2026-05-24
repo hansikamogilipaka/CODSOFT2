@@ -10,6 +10,7 @@ class TicTacToeAI:
 
         self.root.title("Tic-Tac-Toe AI")
         self.root.geometry("430x600")
+
         self.root.configure(bg="#121826")
         self.root.resizable(False, False)
 
